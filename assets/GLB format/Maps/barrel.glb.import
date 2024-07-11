@@ -1,0 +1,40 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://cqu6tv4jg3nul"
+path="res://.godot/imported/barrel.glb-75a736fc6a044041bf0f3221a2e9673c.scn"
+
+[deps]
+
+source_file="res://assets/GLB format/Maps/barrel.glb"
+dest_files=["res://.godot/imported/barrel.glb-75a736fc6a044041bf0f3221a2e9673c.scn"]
+
+[params]
+
+nodes/root_type=""
+nodes/root_name=""
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={
+"nodes": {
+"PATH:barrel": {
+"generate/physics": true
+}
+}
+}
+gltf/naming_version=1
+gltf/embedded_image_handling=1
