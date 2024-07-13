@@ -8,12 +8,13 @@ var plus = true
 var speed = 50
 
 func _ready():
-	pass # Replace with function body.
+	var player = PlayerProgress.new('vagabundo')
+	print(player)
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):
-	print(rotation_degrees)
+	#print(rotation_degrees)
 	if plus:
 		rotation_degrees += Vector3(0,0,speed) * delta
 		rotation_degrees = clamp(rotation_degrees,start_rotation,final_rotation)

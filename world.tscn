@@ -56,7 +56,6 @@ script = ExtResource("4_47r4w")
 target = NodePath("../CharacterBody3D")
 
 [node name="Camera" type="Camera3D" parent="CameraPivo"]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
 
 [node name="Label3D" type="Label3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0454, 0)
