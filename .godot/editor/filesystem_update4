@@ -1,1 +1,6 @@
 res://w-en.tres
+res://scripts/PlayerClass.gd
+res://scripts/PlayerProgress.gd
+res://testeLabel.gd
+res://macaco.tres
+>>>>>>> 2ce269418cbaadf224946ee73fb8c003cd42f584
