@@ -1,270 +1,276 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1720901302
-icon.svg::CompressedTexture2D::1220127856910624875::1720895919::1720895919::1::::<><>::
-player.gd::GDScript::-1::1720895919::0::1::::<>CharacterBody3D<>::
-testeLabel.gd::GDScript::-1::1720900818::0::1::::<>Label3D<>::
-testeMovimento.gd::GDScript::-1::1720895919::0::1::::<>StaticBody3D<>::
-w-en.tres::Environment::5606978517538894156::1720900532::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
-world.tscn::PackedScene::4212348849559626980::1720901302::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb<>res://scripts/view.gd<>res://testeLabel.gd
-::res://assets/::1720895919
-2151071755.jpg::CompressedTexture2D::3234449160139597115::1720895918::1720895918::1::::<><>::
-clouds_anime_6k.jpg::CompressedTexture2D::7825345187358457397::1720895919::1720895919::1::::<><>::
-syferfontein_18d_clear_puresky_2k.hdr::CompressedTexture2D::6673189293070300854::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/::1720895919
-::res://assets/GLB format/beetle_bot/::1720895919
-beetlebot_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-beetlebot_skin.tscn::PackedScene::3458808760929674789::1720895919::0::1::::<><>::res://models/beetle_bot/beetlebot_skin.gd<>uid://dbqoj8oam1dsg::::res://models/beetle_bot/model/beetle_bot_fused.glb<>uid://dg5h8p8fu3mhh::::res://models/beetle_bot/materials/beetlebot_eyes_mat.tres<>uid://h2e57pyy6lu4::::res://models/beetle_bot/materials/beetlebot_lights_mat.tres<>uid://812ebxlqmeit::::res://models/beetle_bot/model/custom/custom_lib.res
-::res://assets/GLB format/beetle_bot/materials/::1720895919
-beetlebot_eyes_mat.tres::ShaderMaterial::7642811234761333925::1720895919::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://bvxkh2pa1nqdq::::res://models/shared/textures/eye_mask.png
-beetlebot_lights_mat.tres::StandardMaterial3D::547358251657078313::1720895919::0::1::::<><>::
-::res://assets/GLB format/beetle_bot/model/::1720895919
-beetle_bot_fused.glb::PackedScene::7263348803741045126::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/beetle_bot/model/custom/::1720895919
-custom_lib.res::AnimationLibrary::2371552252216436275::1720895919::0::1::::<><>::uid://m0q41sbjire4::::res://models/beetle_bot/model/custom/light_shutdown.res
-light_shutdown.res::Animation::894900220886768345::1720895919::0::1::::<><>::
-::res://assets/GLB format/bee_bot/::1720895919
-bee_bot.glb::PackedScene::8926715502274393983::1720895919::1720895919::1::::<><>::
-bee_bot_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-bee_bot_skin.tscn::PackedScene::2105271877589450843::1720895919::0::1::::<><>::uid://d0gfx2lihdq44::::res://models/bee_bot/bee_bot.glb<>res://models/bee_bot/bee_bot_skin.gd<>uid://bww7by8cvcuoe::::res://models/bee_bot/materials/bee_bot_lights_mat.tres<>uid://dx8xfrepk0a68::::res://models/bee_bot/materials/bee_bot_eyes_mat.tres<>uid://cruyb7vmbaabx::::res://models/bee_bot/materials/bee_bot_wings_mat.tres<>uid://rb3v0562tes3::::res://models/bee_bot/custom_animations/custom_lib.res
-::res://assets/GLB format/bee_bot/custom_animations/::1720895919
-custom_lib.res::AnimationLibrary::1197013657943291448::1720895919::0::1::::<><>::uid://bqprpxg0a2kjd::::res://models/bee_bot/custom_animations/light_shutdown.tres
-light_shutdown.tres::Animation::3541468042440957653::1720895919::0::1::::<><>::
-::res://assets/GLB format/bee_bot/materials/::1720895919
-bee_bot_eyes_mat.tres::ShaderMaterial::8843136240213222279::1720895919::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://bvxkh2pa1nqdq::::res://models/shared/textures/eye_mask.png
-bee_bot_lights_mat.tres::StandardMaterial3D::3977937595539545616::1720895919::0::1::::<><>::
-bee_bot_wings_mat.tres::ShaderMaterial::6008799971668907017::1720895919::0::1::::<><>::res://models/bee_bot/shader/bee_wings_shader.gdshader<>uid://blaqa1tkmd0xx::::res://models/bee_bot/textures/wing_pattern.png
-::res://assets/GLB format/bee_bot/shader/::1720895919
-bee_wings_shader.gdshader::Shader::-1::1720895919::0::1::::<><>::
-::res://assets/GLB format/bee_bot/textures/::1720895919
-wing_pattern.png::CompressedTexture2D::3159470831024646241::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/gdbot/::1720895919
-gdbot.glb::PackedScene::6818701816185187316::1720895919::1720895919::1::::<><>::
-gdbot_face.gd::GDScript::-1::1720895919::0::1::::<>Node2D<>::
-gdbot_face.tscn::PackedScene::8684435430592660257::1720895919::0::1::::<><>::res://models/gdbot/gdbot_face.gd<>uid://cbp882a2a27qw::::res://models/gdbot/texture/parts/eye_happy.png<>uid://blacn6s3yc88h::::res://models/gdbot/texture/parts/eye_open.png<>uid://dt0veafbpw6ih::::res://models/gdbot/texture/parts/eye_spiral.png<>uid://blet3qwl4cbi3::::res://models/gdbot/texture/parts/smile.png<>uid://b37rqx42rwpv::::res://models/gdbot/texture/parts/open_mouth.png<>uid://b3b243yxcn5vq::::res://models/gdbot/texture/parts/eye_close.png
-gdbot_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-gdbot_skin.tscn::PackedScene::2647477646228503298::1720895919::0::1::::<><>::res://models/gdbot/gdbot_skin.gd<>uid://c4fba1hyqkstw::::res://models/gdbot/gdbot.glb<>uid://cq6bdna8ieu87::::res://models/gdbot/materials/heart_core_mat.tres<>res://models/shared/shaders/screen_shader.gdshader<>uid://4ugdxr58llu8::::res://models/gdbot/materials/glass_mat.tres<>uid://dlohfyy3w0jbd::::res://models/gdbot/custom_animations/custom_lib.res<>uid://dvy2nao23i4rl::::res://models/gdbot/gdbot_face.tscn
-::res://assets/GLB format/gdbot/custom_animations/::1720895919
-custom_lib.res::AnimationLibrary::7960675866511679729::1720895919::0::1::::<><>::uid://b627b68jhaqwt::::res://models/gdbot/custom_animations/default_heartbeat.tres
-default_heartbeat.tres::Animation::4619959445014843279::1720895919::0::1::::<><>::
-::res://assets/GLB format/gdbot/materials/::1720895919
-gdbot_face_mat.tres::ShaderMaterial::5017437597077860417::1720895919::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://diovavdu1x8kw::::res://models/gdbot/texture/open.png
-glass_mat.tres::StandardMaterial3D::2077134915628784093::1720895919::0::1::::<><>::
-heart_core_mat.tres::StandardMaterial3D::5959925334658847506::1720895919::0::1::::<><>::
-::res://assets/GLB format/gdbot/texture/::1720895919
-closed.png::CompressedTexture2D::5212602826319289475::1720895919::1720895919::1::::<><>::
-open.png::CompressedTexture2D::7750950254157656838::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/gdbot/texture/parts/::1720895919
-eye_close.png::CompressedTexture2D::4355465338917347898::1720895919::1720895919::1::::<><>::
-eye_happy.png::CompressedTexture2D::4876059888653595118::1720895919::1720895919::1::::<><>::
-eye_open.png::CompressedTexture2D::3158644270352469629::1720895919::1720895919::1::::<><>::
-eye_spiral.png::CompressedTexture2D::8545741731867531539::1720895919::1720895919::1::::<><>::
-open_mouth.png::CompressedTexture2D::129965600275122563::1720895919::1720895919::1::::<><>::
-smile.png::CompressedTexture2D::3167959974717519216::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/gobot/::1720895919
-gobot_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-gobot_skin.tscn::PackedScene::6517059689397096127::1720895919::0::1::::<><>::uid://kod0awm1ha4o::::res://models/gobot/model/gobot.glb<>res://models/gobot/gobot_skin.gd<>uid://cfdf62ci74tew::::res://models/gobot/textures/closed_eyes.png<>uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png<>uid://div0enqs04w5j::::res://models/gobot/materials/eye_mat.tres<>uid://k45w5evgjbtp::::res://models/gobot/model/custom/custom_lib.res
-::res://assets/GLB format/gobot/materials/::1720895919
-eye_mat.tres::StandardMaterial3D::7765650509386433557::1720895919::0::1::::<><>::uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
-::res://assets/GLB format/gobot/model/::1720895919
-gobot.glb::PackedScene::731016555329025600::1720895919::1720895919::1::::<><>::
-gobot_gobot_diffuse.png::CompressedTexture2D::3782835701294553970::1720895919::1720895919::1::::<><>::
-gobot_gobot_normal.png::CompressedTexture2D::9123874720625855035::1720895919::1720895919::1::::<><>::
-gobot_gobot_roughness.png::CompressedTexture2D::5215218029499431098::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/gobot/model/custom/::1720895919
-custom_lib.res::AnimationLibrary::763617771339198433::1720895919::0::1::::<><>::uid://c4s3bebvtgey4::::res://models/gobot/model/custom/run_step.res<>uid://ojp8slmuhwjm::::res://models/gobot/model/custom/hurt.res
-hurt.res::Animation::1002193859794753742::1720895919::0::1::::<><>::uid://yj5yx07nva6l::::res://models/gobot/textures/hurt_eyes.png<>uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
-run_step.res::Animation::6847178706671563677::1720895919::0::1::::<><>::
-::res://assets/GLB format/gobot/textures/::1720895919
-closed_eyes.png::CompressedTexture2D::5130339085040898258::1720895919::1720895919::1::::<><>::
-hurt_eyes.png::CompressedTexture2D::1704977264065322721::1720895919::1720895919::1::::<><>::
-open_eye.png::CompressedTexture2D::8348276059302445828::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/Maps/::1720895919
-arrow.glb::PackedScene::4999042697651640274::1720895918::1720895918::1::::<><>::
-arrows.glb::PackedScene::7477847874788264122::1720895918::1720895918::1::::<><>::
-barrel.glb::PackedScene::5939067725743603335::1720895918::1720895918::1::::<><>::
-block-grass-corner-low.glb::PackedScene::4436978931970263154::1720895918::1720895918::1::::<><>::
-block-grass-corner-overhang-low.glb::PackedScene::3429426372091483174::1720895918::1720895918::1::::<><>::
-block-grass-corner-overhang.glb::PackedScene::6763643724783885062::1720895918::1720895918::1::::<><>::
-block-grass-corner.glb::PackedScene::7212734295244869613::1720895918::1720895918::1::::<><>::
-block-grass-curve-half.glb::PackedScene::6685701038086293157::1720895918::1720895918::1::::<><>::
-block-grass-curve-low.glb::PackedScene::5310658888603688709::1720895918::1720895918::1::::<><>::
-block-grass-curve.glb::PackedScene::5382120843990777656::1720895918::1720895918::1::::<><>::
-block-grass-edge.glb::PackedScene::948965922530846901::1720895918::1720895918::1::::<><>::
-block-grass-hexagon.glb::PackedScene::2179878709753888882::1720895918::1720895918::1::::<><>::
-block-grass-large-slope-narrow.glb::PackedScene::4752504869179022510::1720895918::1720895918::1::::<><>::
-block-grass-large-slope-steep-narrow.glb::PackedScene::2008073299563548294::1720895918::1720895918::1::::<><>::
-block-grass-large-slope-steep.glb::PackedScene::6636178811027068169::1720895918::1720895918::1::::<><>::
-block-grass-large-slope.glb::PackedScene::7359060605969272426::1720895918::1720895918::1::::<><>::
-block-grass-large-tall.glb::PackedScene::3926698948476820562::1720895918::1720895918::1::::<><>::
-block-grass-large.glb::PackedScene::482681560394237499::1720895918::1720895918::1::::<><>::
-block-grass-long.glb::PackedScene::257511542729072014::1720895918::1720895918::1::::<><>::
-block-grass-low-hexagon.glb::PackedScene::2881738691384773819::1720895918::1720895918::1::::<><>::
-block-grass-low-large.glb::PackedScene::7754469489652764109::1720895918::1720895918::1::::<><>::
-block-grass-low-long.glb::PackedScene::5464767572980613129::1720895918::1720895918::1::::<><>::
-block-grass-low-narrow.glb::PackedScene::2155644889613376306::1720895918::1720895918::1::::<><>::
-block-grass-low.glb::PackedScene::2924394902539104778::1720895918::1720895918::1::::<><>::
-block-grass-narrow.glb::PackedScene::1649747767194445646::1720895918::1720895918::1::::<><>::
-block-grass-overhang-corner.glb::PackedScene::2524053522833479607::1720895918::1720895918::1::::<><>::
-block-grass-overhang-edge.glb::PackedScene::4629657570804478871::1720895918::1720895918::1::::<><>::
-block-grass-overhang-hexagon.glb::PackedScene::972012999103523251::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large-slope-narrow.glb::PackedScene::7723496483623401280::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large-slope-steep-narrow.glb::PackedScene::7446112724264556820::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large-slope-steep.glb::PackedScene::4374094182259871360::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large-slope.glb::PackedScene::222111530464606111::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large-tall.glb::PackedScene::3499429961433850714::1720895918::1720895918::1::::<><>::
-block-grass-overhang-large.glb::PackedScene::6452063370465575610::1720895918::1720895919::1::::<><>::
-block-grass-overhang-long.glb::PackedScene::6149986517827123044::1720895919::1720895919::1::::<><>::
-block-grass-overhang-low-hexagon.glb::PackedScene::55351885675111518::1720895919::1720895919::1::::<><>::
-block-grass-overhang-low-large.glb::PackedScene::2650102334306461946::1720895919::1720895919::1::::<><>::
-block-grass-overhang-low-long.glb::PackedScene::4292474924563470661::1720895919::1720895919::1::::<><>::
-block-grass-overhang-low-narrow.glb::PackedScene::1028506495293062713::1720895919::1720895919::1::::<><>::
-block-grass-overhang-low.glb::PackedScene::2561453898618713159::1720895919::1720895919::1::::<><>::
-block-grass-overhang-narrow.glb::PackedScene::8104992683708155379::1720895919::1720895919::1::::<><>::
-block-grass.glb::PackedScene::2953170784125722329::1720895919::1720895919::1::::<><>::
-block-moving-blue.glb::PackedScene::2023675668607964912::1720895919::1720895919::1::::<><>::
-block-moving-large.glb::PackedScene::902474873032837113::1720895919::1720895919::1::::<><>::
-block-moving.glb::PackedScene::6987974004045270173::1720895919::1720895919::1::::<><>::
-block-snow-corner-low.glb::PackedScene::5834794629692380951::1720895919::1720895919::1::::<><>::
-block-snow-corner-overhang-low.glb::PackedScene::6630361045825099925::1720895919::1720895919::1::::<><>::
-block-snow-corner-overhang.glb::PackedScene::1383407348156918962::1720895919::1720895919::1::::<><>::
-block-snow-corner.glb::PackedScene::568125375268719537::1720895919::1720895919::1::::<><>::
-block-snow-curve-half.glb::PackedScene::5421883589214851012::1720895919::1720895919::1::::<><>::
-block-snow-curve-low.glb::PackedScene::2920164288484736835::1720895919::1720895919::1::::<><>::
-block-snow-curve.glb::PackedScene::1388892603634124909::1720895919::1720895919::1::::<><>::
-block-snow-edge.glb::PackedScene::2834051608216632806::1720895919::1720895919::1::::<><>::
-block-snow-hexagon.glb::PackedScene::8863016549467773901::1720895919::1720895919::1::::<><>::
-block-snow-large-slope-narrow.glb::PackedScene::7736684747597125580::1720895919::1720895919::1::::<><>::
-block-snow-large-slope-steep-narrow.glb::PackedScene::7066549451575306738::1720895919::1720895919::1::::<><>::
-block-snow-large-slope-steep.glb::PackedScene::3056553977559924522::1720895919::1720895919::1::::<><>::
-block-snow-large-slope.glb::PackedScene::6561200767101432982::1720895919::1720895919::1::::<><>::
-block-snow-large-tall.glb::PackedScene::9077472851169105048::1720895919::1720895919::1::::<><>::
-block-snow-large.glb::PackedScene::7120941408494541960::1720895919::1720895919::1::::<><>::
-block-snow-long.glb::PackedScene::7142528529708422152::1720895919::1720895919::1::::<><>::
-block-snow-low-hexagon.glb::PackedScene::9059193901941302105::1720895919::1720895919::1::::<><>::
-block-snow-low-large.glb::PackedScene::2043733340112514878::1720895919::1720895919::1::::<><>::
-block-snow-low-long.glb::PackedScene::9155170847604868465::1720895919::1720895919::1::::<><>::
-block-snow-low-narrow.glb::PackedScene::3461761158209001833::1720895919::1720895919::1::::<><>::
-block-snow-low.glb::PackedScene::68238516431495911::1720895919::1720895919::1::::<><>::
-block-snow-narrow.glb::PackedScene::8585701512543855151::1720895919::1720895919::1::::<><>::
-block-snow-overhang-corner.glb::PackedScene::1637869402048407195::1720895919::1720895919::1::::<><>::
-block-snow-overhang-edge.glb::PackedScene::1104792045086459637::1720895919::1720895919::1::::<><>::
-block-snow-overhang-hexagon.glb::PackedScene::9208310496709375032::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large-slope-narrow.glb::PackedScene::4513873693850354692::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large-slope-steep-narrow.glb::PackedScene::8237062377986234919::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large-slope-steep.glb::PackedScene::5188294172610465003::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large-slope.glb::PackedScene::252499166234600012::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large-tall.glb::PackedScene::5849322380840103124::1720895919::1720895919::1::::<><>::
-block-snow-overhang-large.glb::PackedScene::9215686002300152101::1720895919::1720895919::1::::<><>::
-block-snow-overhang-long.glb::PackedScene::3428162210935979280::1720895919::1720895919::1::::<><>::
-block-snow-overhang-low-hexagon.glb::PackedScene::4727851927042124371::1720895919::1720895919::1::::<><>::
-block-snow-overhang-low-large.glb::PackedScene::1811492558006970512::1720895919::1720895919::1::::<><>::
-block-snow-overhang-low-long.glb::PackedScene::8151687737367582754::1720895919::1720895919::1::::<><>::
-block-snow-overhang-low-narrow.glb::PackedScene::3386295847700596732::1720895919::1720895919::1::::<><>::
-block-snow-overhang-low.glb::PackedScene::7854868476936477290::1720895919::1720895919::1::::<><>::
-block-snow-overhang-narrow.glb::PackedScene::325072753186951115::1720895919::1720895919::1::::<><>::
-block-snow.glb::PackedScene::2411621391177803902::1720895919::1720895919::1::::<><>::
-bomb.glb::PackedScene::2059248237981836303::1720895919::1720895919::1::::<><>::
-button-round.glb::PackedScene::6561313380079380799::1720895919::1720895919::1::::<><>::
-button-square.glb::PackedScene::6201974925372672654::1720895919::1720895919::1::::<><>::
-chest.glb::PackedScene::4775547387022758597::1720895919::1720895919::1::::<><>::
-coin-bronze.glb::PackedScene::2704613425204939238::1720895919::1720895919::1::::<><>::
-coin-gold.glb::PackedScene::5375612838219393459::1720895919::1720895919::1::::<><>::
-coin-silver.glb::PackedScene::6809452807464655067::1720895919::1720895919::1::::<><>::
-crate-item-strong.glb::PackedScene::4357546656124117631::1720895919::1720895919::1::::<><>::
-crate-item.glb::PackedScene::850660311869690465::1720895919::1720895919::1::::<><>::
-crate-strong.glb::PackedScene::1207166228405041550::1720895919::1720895919::1::::<><>::
-crate.glb::PackedScene::1420527462739933492::1720895919::1720895919::1::::<><>::
-door-large-open.glb::PackedScene::7150359941632400749::1720895919::1720895919::1::::<><>::
-door-open.glb::PackedScene::2167099099422546378::1720895919::1720895919::1::::<><>::
-door-rotate-large.glb::PackedScene::7691434082313835296::1720895919::1720895919::1::::<><>::
-door-rotate.glb::PackedScene::7280038573643330396::1720895919::1720895919::1::::<><>::
-fence-broken.glb::PackedScene::7845030469154462035::1720895919::1720895919::1::::<><>::
-fence-corner-curved.glb::PackedScene::5360746565189088167::1720895919::1720895919::1::::<><>::
-fence-corner.glb::PackedScene::6606419453628751687::1720895919::1720895919::1::::<><>::
-fence-low-broken.glb::PackedScene::2457913972243319868::1720895919::1720895919::1::::<><>::
-fence-low-corner-curved.glb::PackedScene::8585240720816112596::1720895919::1720895919::1::::<><>::
-fence-low-corner.glb::PackedScene::2915035017496661537::1720895919::1720895919::1::::<><>::
-fence-low-straight.glb::PackedScene::7647833985191911105::1720895919::1720895919::1::::<><>::
-fence-straight.glb::PackedScene::8300775303283214921::1720895919::1720895919::1::::<><>::
-flag.glb::PackedScene::1302462196861043275::1720895919::1720895919::1::::<><>::
-flowers-tall.glb::PackedScene::5643591766473488247::1720895919::1720895919::1::::<><>::
-flowers.glb::PackedScene::1114807955097963338::1720895919::1720895919::1::::<><>::
-grass.glb::PackedScene::6320587693856238640::1720895919::1720895919::1::::<><>::
-heart.glb::PackedScene::8726350913246825287::1720895919::1720895919::1::::<><>::
-hedge-corner.glb::PackedScene::7044672811008349778::1720895919::1720895919::1::::<><>::
-hedge.glb::PackedScene::3394190003991226419::1720895919::1720895919::1::::<><>::
-jewel.glb::PackedScene::5316194211777174028::1720895919::1720895919::1::::<><>::
-key.glb::PackedScene::2799417136521363229::1720895919::1720895919::1::::<><>::
-ladder-broken.glb::PackedScene::5122136916993193716::1720895919::1720895919::1::::<><>::
-ladder-long.glb::PackedScene::3853078531228839855::1720895919::1720895919::1::::<><>::
-ladder.glb::PackedScene::4522143190807718244::1720895919::1720895919::1::::<><>::
-lever.glb::PackedScene::5901381385686266457::1720895919::1720895919::1::::<><>::
-lock.glb::PackedScene::8294605918379493125::1720895919::1720895919::1::::<><>::
-mushrooms.glb::PackedScene::4403802343455767469::1720895919::1720895919::1::::<><>::
-plant.glb::PackedScene::1915295968639387835::1720895919::1720895919::1::::<><>::
-platform-fortified.glb::PackedScene::8005491506194020138::1720895919::1720895919::1::::<><>::
-platform-overhang.glb::PackedScene::2124229209318246576::1720895919::1720895919::1::::<><>::
-platform-ramp.glb::PackedScene::441846987877836357::1720895919::1720895919::1::::<><>::
-platform.glb::PackedScene::8205021749773631911::1720895919::1720895919::1::::<><>::
-poles.glb::PackedScene::3589536126460047946::1720895919::1720895919::1::::<><>::
-rocks.glb::PackedScene::676319114450085497::1720895919::1720895919::1::::<><>::
-saw.glb::PackedScene::4379050310201661794::1720895919::1720895919::1::::<><>::
-sign.glb::PackedScene::6498600214530897453::1720895919::1720895919::1::::<><>::
-spike-block-wide.glb::PackedScene::8496964559740498313::1720895919::1720895919::1::::<><>::
-spike-block.glb::PackedScene::5196724429155905076::1720895919::1720895919::1::::<><>::
-stones.glb::PackedScene::8020003917960256355::1720895919::1720895919::1::::<><>::
-trap-spikes-large.glb::PackedScene::3558598351220273035::1720895919::1720895919::1::::<><>::
-trap-spikes.glb::PackedScene::7366212888095418745::1720895919::1720895919::1::::<><>::
-tree-pine-small.glb::PackedScene::8447499954301095967::1720895919::1720895919::1::::<><>::
-tree-pine-snow-small.glb::PackedScene::3773414975327813400::1720895919::1720895919::1::::<><>::
-tree-pine-snow.glb::PackedScene::5857283885440322821::1720895919::1720895919::1::::<><>::
-tree-pine.glb::PackedScene::4394940860595016079::1720895919::1720895919::1::::<><>::
-tree-snow.glb::PackedScene::9022423880044439668::1720895919::1720895919::1::::<><>::
-tree.glb::PackedScene::2643403175233237013::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/Maps/Textures/::1720895918
-colormap.png::CompressedTexture2D::6771839271248223425::1720895918::1720895918::1::::<><>::
-::res://assets/GLB format/round_bat/::1720895919
-round_bat_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-round_bat_skin.tscn::PackedScene::1383690452834059112::1720895919::0::1::::<><>::uid://h2we7rb772hy::::res://models/round_bat/model/bat.glb<>res://models/round_bat/round_bat_skin.gd<>uid://c1irgai81674w::::res://models/round_bat/model/custom/custom_lib.res
-::res://assets/GLB format/round_bat/model/::1720895919
-bat.glb::PackedScene::548404728940689490::1720895919::1720895919::1::::<><>::
-bat_albedo.png::CompressedTexture2D::8323211637251668146::1720895919::1720895919::1::::<><>::
-bat_roughness.png::CompressedTexture2D::4243314292578545969::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/round_bat/model/custom/::1720895919
-custom_lib.res::AnimationLibrary::6615309241541787048::1720895919::0::1::::<><>::uid://da8rcao72ebvp::::res://models/round_bat/model/custom/hurt.res
-hurt.res::Animation::7228422300545551021::1720895919::0::1::::<><>::
-::res://assets/GLB format/shared/::1720895919
-::res://assets/GLB format/shared/shaders/::1720895919
-screen_shader.gdshader::Shader::-1::1720895919::0::1::::<><>::
-::res://assets/GLB format/shared/textures/::1720895919
-eye_mask.png::CompressedTexture2D::3908488200257949310::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/sophia/::1720895919
-sophia_skin.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-sophia_skin.tscn::PackedScene::1088403687259568021::1720895919::0::1::::<><>::uid://16iu10wxub40::::res://models/sophia/model/sophia.glb<>res://models/sophia/sophia_skin.gd<>uid://dye01l0ct4fby::::res://models/sophia/model/materials/eye_mat_override.tres
-::res://assets/GLB format/sophia/model/::1720895919
-sophia.glb::PackedScene::1889428502043242119::1720895919::1720895919::1::::<><>::
-sophia_diffuse.png::CompressedTexture2D::2194551603207448386::1720895919::1720895919::1::::<><>::
-sophia_eye_open_diffuse.png::CompressedTexture2D::3530007250205914920::1720895919::1720895919::1::::<><>::
-sophia_eye_open_normal.png::CompressedTexture2D::1057991244899050165::1720895919::1720895919::1::::<><>::
-sophia_mouth_smile_diffuse.png::CompressedTexture2D::268748017642751524::1720895919::1720895919::1::::<><>::
-sophia_mouth_smile_normal.png::CompressedTexture2D::6802912373536449604::1720895919::1720895919::1::::<><>::
-sophia_normal.png::CompressedTexture2D::848904653898235478::1720895919::1720895919::1::::<><>::
-sophia_roughness.png::CompressedTexture2D::7243573823618578073::1720895919::1720895919::1::::<><>::
-SSS.png::CompressedTexture2D::8807376051677854273::1720895919::1720895919::1::::<><>::
-::res://assets/GLB format/sophia/model/materials/::1720895919
-eye_mat_L.tres::StandardMaterial3D::141094784970057065::1720895919::0::1::::<><>::uid://bqj7x6pcb73iy::::res://models/sophia/model/sophia_eye_open_diffuse.png<>uid://pcq7xge7vncv::::res://models/sophia/model/sophia_eye_open_normal.png
-eye_mat_override.tres::StandardMaterial3D::8853616781363377254::1720895919::0::1::::<><>::uid://ctfbobgg7ts8d::::res://models/sophia/model/textures/eyes_diffuse_map.png<>uid://bjvo8w2ptm7fc::::res://models/sophia/model/textures/eyes_normal_map.png
-eye_mat_R.tres::StandardMaterial3D::5016230621342625884::1720895919::0::1::::<><>::uid://bqj7x6pcb73iy::::res://models/sophia/model/sophia_eye_open_diffuse.png<>uid://pcq7xge7vncv::::res://models/sophia/model/sophia_eye_open_normal.png
-mouth_mat.tres::StandardMaterial3D::300488373380661199::1720895919::0::1::::<><>::uid://d3gigd8y5hjg::::res://models/sophia/model/sophia_mouth_smile_diffuse.png<>uid://c36m8cv33f0yi::::res://models/sophia/model/sophia_mouth_smile_normal.png
-sophia_material.tres::StandardMaterial3D::3918783906598939747::1720895919::0::1::::<><>::uid://6jb7dt4d54ck::::res://models/sophia/model/sophia_diffuse.png<>uid://dbg3uqtvqxigv::::res://models/sophia/model/sophia_roughness.png<>uid://mdhln8lltmyo::::res://models/sophia/model/sophia_normal.png<>uid://dxqmgxq6o21yr::::res://models/sophia/model/SSS.png
-::res://assets/GLB format/sophia/model/textures/::1720895919
-eyes_diffuse_map.png::CompressedTexture2D::6116837065494871941::1720895919::1720895919::1::::<><>::
-eyes_normal_map.png::CompressedTexture2D::3062382376299092828::1720895919::1720895919::1::::<><>::
-::res://prefabs/::1720895919
-gobot.tscn::PackedScene::3769029107970260940::1720895919::0::1::::<><>::uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
-::res://scripts/::1720901522
-PlayerClass.gd::GDScript::-1::1720900532::0::1::::PlayerData<>RefCounted<>::
-PlayerProgress.gd::GDScript::-1::1720901290::0::1::::PlayerProgress<>Resource<>::
-view.gd::GDScript::-1::1720895919::0::1::::<>Node3D<>::
-::res://scripts/database/::1720901522
->>>>>>> 2ce269418cbaadf224946ee73fb8c003cd42f584
+::res://::1721042059
+icon.svg::CompressedTexture2D::1220127856910624875::1720621964::1720621975::1::::<><>::
+player.gd::GDScript::-1::1720705239::0::1::::<>CharacterBody3D<>::
+testeLabel.gd::GDScript::-1::1721041781::0::1::::<>Label3D<>::
+testeMovimento.gd::GDScript::-1::1720703051::0::1::::<>StaticBody3D<>::
+w-en.tres::Environment::5606978517538894156::1720810877::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
+world.tscn::PackedScene::4212348849559626980::1720795410::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb<>res://scripts/view.gd<>res://testeLabel.gd
+::res://assets/::1720707625
+2151071755.jpg::CompressedTexture2D::3234449160139597115::1720624545::1720624551::1::::<><>::
+clouds_anime_6k.jpg::CompressedTexture2D::7825345187358457397::1720625694::1720625772::1::::<><>::
+syferfontein_18d_clear_puresky_2k.hdr::CompressedTexture2D::6673189293070300854::1720625004::1720625059::1::::<><>::
+::res://assets/GLB format/::1720707662
+::res://assets/GLB format/beetle_bot/::1720637274
+beetlebot_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
+beetlebot_skin.tscn::PackedScene::3458808760929674789::1720637273::0::1::::<><>::res://models/beetle_bot/beetlebot_skin.gd<>uid://dbqoj8oam1dsg::::res://models/beetle_bot/model/beetle_bot_fused.glb<>uid://dg5h8p8fu3mhh::::res://models/beetle_bot/materials/beetlebot_eyes_mat.tres<>uid://h2e57pyy6lu4::::res://models/beetle_bot/materials/beetlebot_lights_mat.tres<>uid://812ebxlqmeit::::res://models/beetle_bot/model/custom/custom_lib.res
+::res://assets/GLB format/beetle_bot/materials/::1720637274
+beetlebot_eyes_mat.tres::ShaderMaterial::7642811234761333925::1720637273::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://bvxkh2pa1nqdq::::res://models/shared/textures/eye_mask.png
+beetlebot_lights_mat.tres::StandardMaterial3D::547358251657078313::1720637273::0::1::::<><>::
+::res://assets/GLB format/beetle_bot/model/::1720637283
+beetle_bot_fused.glb::PackedScene::7263348803741045126::1720637274::1720637283::1::::<><>::
+::res://assets/GLB format/beetle_bot/model/custom/::1720637274
+custom_lib.res::AnimationLibrary::2371552252216436275::1720637274::0::1::::<><>::uid://m0q41sbjire4::::res://models/beetle_bot/model/custom/light_shutdown.res
+light_shutdown.res::Animation::894900220886768345::1720637274::0::1::::<><>::
+::res://assets/GLB format/bee_bot/::1720637284
+bee_bot.glb::PackedScene::8926715502274393983::1720637273::1720637284::1::::<><>::
+bee_bot_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
+bee_bot_skin.tscn::PackedScene::2105271877589450843::1720637273::0::1::::<><>::uid://d0gfx2lihdq44::::res://models/bee_bot/bee_bot.glb<>res://models/bee_bot/bee_bot_skin.gd<>uid://bww7by8cvcuoe::::res://models/bee_bot/materials/bee_bot_lights_mat.tres<>uid://dx8xfrepk0a68::::res://models/bee_bot/materials/bee_bot_eyes_mat.tres<>uid://cruyb7vmbaabx::::res://models/bee_bot/materials/bee_bot_wings_mat.tres<>uid://rb3v0562tes3::::res://models/bee_bot/custom_animations/custom_lib.res
+::res://assets/GLB format/bee_bot/custom_animations/::1720637273
+custom_lib.res::AnimationLibrary::1197013657943291448::1720637273::0::1::::<><>::uid://bqprpxg0a2kjd::::res://models/bee_bot/custom_animations/light_shutdown.tres
+light_shutdown.tres::Animation::3541468042440957653::1720637273::0::1::::<><>::
+::res://assets/GLB format/bee_bot/materials/::1720637273
+bee_bot_eyes_mat.tres::ShaderMaterial::8843136240213222279::1720637273::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://bvxkh2pa1nqdq::::res://models/shared/textures/eye_mask.png
+bee_bot_lights_mat.tres::StandardMaterial3D::3977937595539545616::1720637273::0::1::::<><>::
+bee_bot_wings_mat.tres::ShaderMaterial::6008799971668907017::1720637273::0::1::::<><>::res://models/bee_bot/shader/bee_wings_shader.gdshader<>uid://blaqa1tkmd0xx::::res://models/bee_bot/textures/wing_pattern.png
+::res://assets/GLB format/bee_bot/shader/::1720637273
+bee_wings_shader.gdshader::Shader::-1::1720637273::0::1::::<><>::
+::res://assets/GLB format/bee_bot/textures/::1720637279
+wing_pattern.png::CompressedTexture2D::3159470831024646241::1720637273::1720637279::1::::<><>::
+::res://assets/GLB format/gdbot/::1720637286
+gdbot.glb::PackedScene::6818701816185187316::1720637272::1720637286::1::::<><>::
+gdbot_face.gd::GDScript::-1::1720637272::0::1::::<>Node2D<>::
+gdbot_face.tscn::PackedScene::8684435430592660257::1720637272::0::1::::<><>::res://models/gdbot/gdbot_face.gd<>uid://cbp882a2a27qw::::res://models/gdbot/texture/parts/eye_happy.png<>uid://blacn6s3yc88h::::res://models/gdbot/texture/parts/eye_open.png<>uid://dt0veafbpw6ih::::res://models/gdbot/texture/parts/eye_spiral.png<>uid://blet3qwl4cbi3::::res://models/gdbot/texture/parts/smile.png<>uid://b37rqx42rwpv::::res://models/gdbot/texture/parts/open_mouth.png<>uid://b3b243yxcn5vq::::res://models/gdbot/texture/parts/eye_close.png
+gdbot_skin.gd::GDScript::-1::1720637272::0::1::::<>Node3D<>::
+gdbot_skin.tscn::PackedScene::2647477646228503298::1720637272::0::1::::<><>::res://models/gdbot/gdbot_skin.gd<>uid://c4fba1hyqkstw::::res://models/gdbot/gdbot.glb<>uid://cq6bdna8ieu87::::res://models/gdbot/materials/heart_core_mat.tres<>res://models/shared/shaders/screen_shader.gdshader<>uid://4ugdxr58llu8::::res://models/gdbot/materials/glass_mat.tres<>uid://dlohfyy3w0jbd::::res://models/gdbot/custom_animations/custom_lib.res<>uid://dvy2nao23i4rl::::res://models/gdbot/gdbot_face.tscn
+::res://assets/GLB format/gdbot/custom_animations/::1720637272
+custom_lib.res::AnimationLibrary::7960675866511679729::1720637272::0::1::::<><>::uid://b627b68jhaqwt::::res://models/gdbot/custom_animations/default_heartbeat.tres
+default_heartbeat.tres::Animation::4619959445014843279::1720637272::0::1::::<><>::
+::res://assets/GLB format/gdbot/materials/::1720637272
+gdbot_face_mat.tres::ShaderMaterial::5017437597077860417::1720637272::0::1::::<><>::res://models/shared/shaders/screen_shader.gdshader<>uid://diovavdu1x8kw::::res://models/gdbot/texture/open.png
+glass_mat.tres::StandardMaterial3D::2077134915628784093::1720637272::0::1::::<><>::
+heart_core_mat.tres::StandardMaterial3D::5959925334658847506::1720637272::0::1::::<><>::
+::res://assets/GLB format/gdbot/texture/::1720637280
+closed.png::CompressedTexture2D::5212602826319289475::1720637272::1720637279::1::::<><>::
+open.png::CompressedTexture2D::7750950254157656838::1720637272::1720637279::1::::<><>::
+::res://assets/GLB format/gdbot/texture/parts/::1720637280
+eye_close.png::CompressedTexture2D::4355465338917347898::1720637272::1720637280::1::::<><>::
+eye_happy.png::CompressedTexture2D::4876059888653595118::1720637273::1720637280::1::::<><>::
+eye_open.png::CompressedTexture2D::3158644270352469629::1720637273::1720637280::1::::<><>::
+eye_spiral.png::CompressedTexture2D::8545741731867531539::1720637273::1720637280::1::::<><>::
+open_mouth.png::CompressedTexture2D::129965600275122563::1720637273::1720637280::1::::<><>::
+smile.png::CompressedTexture2D::3167959974717519216::1720637273::1720637280::1::::<><>::
+::res://assets/GLB format/gobot/::1720637273
+gobot_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
+gobot_skin.tscn::PackedScene::6517059689397096127::1720637273::0::1::::<><>::uid://kod0awm1ha4o::::res://models/gobot/model/gobot.glb<>res://models/gobot/gobot_skin.gd<>uid://cfdf62ci74tew::::res://models/gobot/textures/closed_eyes.png<>uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png<>uid://div0enqs04w5j::::res://models/gobot/materials/eye_mat.tres<>uid://k45w5evgjbtp::::res://models/gobot/model/custom/custom_lib.res
+::res://assets/GLB format/gobot/materials/::1720637273
+eye_mat.tres::StandardMaterial3D::7765650509386433557::1720637273::0::1::::<><>::uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
+::res://assets/GLB format/gobot/model/::1720637288
+gobot.glb::PackedScene::731016555329025600::1720637273::1720637287::1::::<><>::
+gobot_gobot_diffuse.png::CompressedTexture2D::3782835701294553970::1720637273::1720637279::1::::<><>::
+gobot_gobot_normal.png::CompressedTexture2D::9123874720625855035::1720637273::1720637279::1::::<><>::
+gobot_gobot_roughness.png::CompressedTexture2D::5215218029499431098::1720637273::1720637279::1::::<><>::
+::res://assets/GLB format/gobot/model/custom/::1720637273
+custom_lib.res::AnimationLibrary::763617771339198433::1720637273::0::1::::<><>::uid://c4s3bebvtgey4::::res://models/gobot/model/custom/run_step.res<>uid://ojp8slmuhwjm::::res://models/gobot/model/custom/hurt.res
+hurt.res::Animation::1002193859794753742::1720637273::0::1::::<><>::uid://yj5yx07nva6l::::res://models/gobot/textures/hurt_eyes.png<>uid://dq675fmt1rg8c::::res://models/gobot/textures/open_eye.png
+run_step.res::Animation::6847178706671563677::1720637273::0::1::::<><>::
+::res://assets/GLB format/gobot/textures/::1720637279
+closed_eyes.png::CompressedTexture2D::5130339085040898258::1720637273::1720637279::1::::<><>::
+hurt_eyes.png::CompressedTexture2D::1704977264065322721::1720637273::1720637279::1::::<><>::
+open_eye.png::CompressedTexture2D::8348276059302445828::1720637273::1720637278::1::::<><>::
+::res://assets/GLB format/Maps/::1720707855
+arrow.glb::PackedScene::4999042697651640274::1715756009::1720707699::1::::<><>::
+arrows.glb::PackedScene::7477847874788264122::1715756010::1720707699::1::::<><>::
+barrel.glb::PackedScene::5939067725743603335::1715756010::1720707855::1::::<><>::
+block-grass-corner-low.glb::PackedScene::4436978931970263154::1715756010::1720707700::1::::<><>::
+block-grass-corner-overhang-low.glb::PackedScene::3429426372091483174::1715756010::1720707700::1::::<><>::
+block-grass-corner-overhang.glb::PackedScene::6763643724783885062::1715756010::1720707700::1::::<><>::
+block-grass-corner.glb::PackedScene::7212734295244869613::1715756010::1720707700::1::::<><>::
+block-grass-curve-half.glb::PackedScene::6685701038086293157::1715756010::1720707700::1::::<><>::
+block-grass-curve-low.glb::PackedScene::5310658888603688709::1715756010::1720707701::1::::<><>::
+block-grass-curve.glb::PackedScene::5382120843990777656::1715756010::1720707701::1::::<><>::
+block-grass-edge.glb::PackedScene::948965922530846901::1715756010::1720707701::1::::<><>::
+block-grass-hexagon.glb::PackedScene::2179878709753888882::1715756010::1720707702::1::::<><>::
+block-grass-large-slope-narrow.glb::PackedScene::4752504869179022510::1715756011::1720707702::1::::<><>::
+block-grass-large-slope-steep-narrow.glb::PackedScene::2008073299563548294::1715756011::1720707702::1::::<><>::
+block-grass-large-slope-steep.glb::PackedScene::6636178811027068169::1715756011::1720707702::1::::<><>::
+block-grass-large-slope.glb::PackedScene::7359060605969272426::1715756011::1720707703::1::::<><>::
+block-grass-large-tall.glb::PackedScene::3926698948476820562::1715756011::1720707703::1::::<><>::
+block-grass-large.glb::PackedScene::482681560394237499::1715756010::1720707703::1::::<><>::
+block-grass-long.glb::PackedScene::257511542729072014::1715756011::1720707694::1::::<><>::
+block-grass-low-hexagon.glb::PackedScene::2881738691384773819::1715756011::1720707694::1::::<><>::
+block-grass-low-large.glb::PackedScene::7754469489652764109::1715756011::1720707695::1::::<><>::
+block-grass-low-long.glb::PackedScene::5464767572980613129::1715756011::1720707695::1::::<><>::
+block-grass-low-narrow.glb::PackedScene::2155644889613376306::1715756011::1720707695::1::::<><>::
+block-grass-low.glb::PackedScene::2924394902539104778::1715756011::1720707696::1::::<><>::
+block-grass-narrow.glb::PackedScene::1649747767194445646::1715756011::1720707696::1::::<><>::
+block-grass-overhang-corner.glb::PackedScene::2524053522833479607::1715756011::1720707696::1::::<><>::
+block-grass-overhang-edge.glb::PackedScene::4629657570804478871::1715756011::1720707696::1::::<><>::
+block-grass-overhang-hexagon.glb::PackedScene::972012999103523251::1715756011::1720707696::1::::<><>::
+block-grass-overhang-large-slope-narrow.glb::PackedScene::7723496483623401280::1715756011::1720707697::1::::<><>::
+block-grass-overhang-large-slope-steep-narrow.glb::PackedScene::7446112724264556820::1715756011::1720707697::1::::<><>::
+block-grass-overhang-large-slope-steep.glb::PackedScene::4374094182259871360::1715756011::1720707697::1::::<><>::
+block-grass-overhang-large-slope.glb::PackedScene::222111530464606111::1715756011::1720707697::1::::<><>::
+block-grass-overhang-large-tall.glb::PackedScene::3499429961433850714::1715756011::1720707697::1::::<><>::
+block-grass-overhang-large.glb::PackedScene::6452063370465575610::1715756011::1720707698::1::::<><>::
+block-grass-overhang-long.glb::PackedScene::6149986517827123044::1715756011::1720707699::1::::<><>::
+block-grass-overhang-low-hexagon.glb::PackedScene::55351885675111518::1715756012::1720707708::1::::<><>::
+block-grass-overhang-low-large.glb::PackedScene::2650102334306461946::1715756012::1720707708::1::::<><>::
+block-grass-overhang-low-long.glb::PackedScene::4292474924563470661::1715756012::1720707708::1::::<><>::
+block-grass-overhang-low-narrow.glb::PackedScene::1028506495293062713::1715756012::1720707708::1::::<><>::
+block-grass-overhang-low.glb::PackedScene::2561453898618713159::1715756012::1720707709::1::::<><>::
+block-grass-overhang-narrow.glb::PackedScene::8104992683708155379::1715756012::1720707709::1::::<><>::
+block-grass.glb::PackedScene::2953170784125722329::1715756010::1720707709::1::::<><>::
+block-moving-blue.glb::PackedScene::2023675668607964912::1715756012::1720707709::1::::<><>::
+block-moving-large.glb::PackedScene::902474873032837113::1715756012::1720707709::1::::<><>::
+block-moving.glb::PackedScene::6987974004045270173::1715756012::1720707709::1::::<><>::
+block-snow-corner-low.glb::PackedScene::5834794629692380951::1715756012::1720707710::1::::<><>::
+block-snow-corner-overhang-low.glb::PackedScene::6630361045825099925::1715756012::1720707710::1::::<><>::
+block-snow-corner-overhang.glb::PackedScene::1383407348156918962::1715756012::1720707710::1::::<><>::
+block-snow-corner.glb::PackedScene::568125375268719537::1715756012::1720707710::1::::<><>::
+block-snow-curve-half.glb::PackedScene::5421883589214851012::1715756012::1720707710::1::::<><>::
+block-snow-curve-low.glb::PackedScene::2920164288484736835::1715756012::1720707710::1::::<><>::
+block-snow-curve.glb::PackedScene::1388892603634124909::1715756012::1720707711::1::::<><>::
+block-snow-edge.glb::PackedScene::2834051608216632806::1715756012::1720707711::1::::<><>::
+block-snow-hexagon.glb::PackedScene::8863016549467773901::1715756012::1720707703::1::::<><>::
+block-snow-large-slope-narrow.glb::PackedScene::7736684747597125580::1715756012::1720707704::1::::<><>::
+block-snow-large-slope-steep-narrow.glb::PackedScene::7066549451575306738::1715756013::1720707704::1::::<><>::
+block-snow-large-slope-steep.glb::PackedScene::3056553977559924522::1715756013::1720707704::1::::<><>::
+block-snow-large-slope.glb::PackedScene::6561200767101432982::1715756012::1720707704::1::::<><>::
+block-snow-large-tall.glb::PackedScene::9077472851169105048::1715756013::1720707705::1::::<><>::
+block-snow-large.glb::PackedScene::7120941408494541960::1715756012::1720707705::1::::<><>::
+block-snow-long.glb::PackedScene::7142528529708422152::1715756013::1720707705::1::::<><>::
+block-snow-low-hexagon.glb::PackedScene::9059193901941302105::1715756013::1720707705::1::::<><>::
+block-snow-low-large.glb::PackedScene::2043733340112514878::1715756013::1720707705::1::::<><>::
+block-snow-low-long.glb::PackedScene::9155170847604868465::1715756013::1720707706::1::::<><>::
+block-snow-low-narrow.glb::PackedScene::3461761158209001833::1715756013::1720707706::1::::<><>::
+block-snow-low.glb::PackedScene::68238516431495911::1715756013::1720707706::1::::<><>::
+block-snow-narrow.glb::PackedScene::8585701512543855151::1715756013::1720707706::1::::<><>::
+block-snow-overhang-corner.glb::PackedScene::1637869402048407195::1715756013::1720707707::1::::<><>::
+block-snow-overhang-edge.glb::PackedScene::1104792045086459637::1715756013::1720707707::1::::<><>::
+block-snow-overhang-hexagon.glb::PackedScene::9208310496709375032::1715756013::1720707707::1::::<><>::
+block-snow-overhang-large-slope-narrow.glb::PackedScene::4513873693850354692::1715756013::1720707708::1::::<><>::
+block-snow-overhang-large-slope-steep-narrow.glb::PackedScene::8237062377986234919::1715756013::1720707682::1::::<><>::
+block-snow-overhang-large-slope-steep.glb::PackedScene::5188294172610465003::1715756013::1720707682::1::::<><>::
+block-snow-overhang-large-slope.glb::PackedScene::252499166234600012::1715756013::1720707682::1::::<><>::
+block-snow-overhang-large-tall.glb::PackedScene::5849322380840103124::1715756013::1720707683::1::::<><>::
+block-snow-overhang-large.glb::PackedScene::9215686002300152101::1715756013::1720707683::1::::<><>::
+block-snow-overhang-long.glb::PackedScene::3428162210935979280::1715756014::1720707683::1::::<><>::
+block-snow-overhang-low-hexagon.glb::PackedScene::4727851927042124371::1715756014::1720707683::1::::<><>::
+block-snow-overhang-low-large.glb::PackedScene::1811492558006970512::1715756014::1720707683::1::::<><>::
+block-snow-overhang-low-long.glb::PackedScene::8151687737367582754::1715756014::1720707684::1::::<><>::
+block-snow-overhang-low-narrow.glb::PackedScene::3386295847700596732::1715756014::1720707684::1::::<><>::
+block-snow-overhang-low.glb::PackedScene::7854868476936477290::1715756014::1720707684::1::::<><>::
+block-snow-overhang-narrow.glb::PackedScene::325072753186951115::1715756014::1720707684::1::::<><>::
+block-snow.glb::PackedScene::2411621391177803902::1715756012::1720707684::1::::<><>::
+bomb.glb::PackedScene::2059248237981836303::1715756014::1720707685::1::::<><>::
+button-round.glb::PackedScene::6561313380079380799::1715756014::1720707685::1::::<><>::
+button-square.glb::PackedScene::6201974925372672654::1715756014::1720707685::1::::<><>::
+chest.glb::PackedScene::4775547387022758597::1715756014::1720707685::1::::<><>::
+coin-bronze.glb::PackedScene::2704613425204939238::1715756014::1720707685::1::::<><>::
+coin-gold.glb::PackedScene::5375612838219393459::1715756014::1720707679::1::::<><>::
+coin-silver.glb::PackedScene::6809452807464655067::1715756014::1720707679::1::::<><>::
+crate-item-strong.glb::PackedScene::4357546656124117631::1715756014::1720707680::1::::<><>::
+crate-item.glb::PackedScene::850660311869690465::1715756014::1720707680::1::::<><>::
+crate-strong.glb::PackedScene::1207166228405041550::1715756014::1720707680::1::::<><>::
+crate.glb::PackedScene::1420527462739933492::1715756014::1720707680::1::::<><>::
+door-large-open.glb::PackedScene::7150359941632400749::1715756014::1720707680::1::::<><>::
+door-open.glb::PackedScene::2167099099422546378::1715756014::1720707680::1::::<><>::
+door-rotate-large.glb::PackedScene::7691434082313835296::1715756015::1720707681::1::::<><>::
+door-rotate.glb::PackedScene::7280038573643330396::1715756015::1720707681::1::::<><>::
+fence-broken.glb::PackedScene::7845030469154462035::1715756015::1720707681::1::::<><>::
+fence-corner-curved.glb::PackedScene::5360746565189088167::1715756015::1720707681::1::::<><>::
+fence-corner.glb::PackedScene::6606419453628751687::1715756015::1720707681::1::::<><>::
+fence-low-broken.glb::PackedScene::2457913972243319868::1715756015::1720707681::1::::<><>::
+fence-low-corner-curved.glb::PackedScene::8585240720816112596::1715756015::1720707682::1::::<><>::
+fence-low-corner.glb::PackedScene::2915035017496661537::1715756015::1720707682::1::::<><>::
+fence-low-straight.glb::PackedScene::7647833985191911105::1715756015::1720707682::1::::<><>::
+fence-straight.glb::PackedScene::8300775303283214921::1715756015::1720707690::1::::<><>::
+flag.glb::PackedScene::1302462196861043275::1715756015::1720707690::1::::<><>::
+flowers-tall.glb::PackedScene::5643591766473488247::1715756015::1720707690::1::::<><>::
+flowers.glb::PackedScene::1114807955097963338::1715756015::1720707690::1::::<><>::
+grass.glb::PackedScene::6320587693856238640::1715756015::1720707691::1::::<><>::
+heart.glb::PackedScene::8726350913246825287::1715756015::1720707691::1::::<><>::
+hedge-corner.glb::PackedScene::7044672811008349778::1715756015::1720707691::1::::<><>::
+hedge.glb::PackedScene::3394190003991226419::1715756015::1720707691::1::::<><>::
+jewel.glb::PackedScene::5316194211777174028::1715756015::1720707692::1::::<><>::
+key.glb::PackedScene::2799417136521363229::1715756015::1720707692::1::::<><>::
+ladder-broken.glb::PackedScene::5122136916993193716::1715756015::1720707692::1::::<><>::
+ladder-long.glb::PackedScene::3853078531228839855::1715756016::1720707692::1::::<><>::
+ladder.glb::PackedScene::4522143190807718244::1715756015::1720707693::1::::<><>::
+lever.glb::PackedScene::5901381385686266457::1715756016::1720707693::1::::<><>::
+lock.glb::PackedScene::8294605918379493125::1715756016::1720707693::1::::<><>::
+mushrooms.glb::PackedScene::4403802343455767469::1715756016::1720707693::1::::<><>::
+plant.glb::PackedScene::1915295968639387835::1715756016::1720707694::1::::<><>::
+platform-fortified.glb::PackedScene::8005491506194020138::1715756016::1720707694::1::::<><>::
+platform-overhang.glb::PackedScene::2124229209318246576::1715756016::1720707686::1::::<><>::
+platform-ramp.glb::PackedScene::441846987877836357::1715756016::1720707686::1::::<><>::
+platform.glb::PackedScene::8205021749773631911::1715756016::1720707686::1::::<><>::
+poles.glb::PackedScene::3589536126460047946::1715756016::1720707686::1::::<><>::
+rocks.glb::PackedScene::676319114450085497::1715756016::1720707687::1::::<><>::
+saw.glb::PackedScene::4379050310201661794::1715756016::1720707687::1::::<><>::
+sign.glb::PackedScene::6498600214530897453::1715756016::1720707687::1::::<><>::
+spike-block-wide.glb::PackedScene::8496964559740498313::1715756016::1720707687::1::::<><>::
+spike-block.glb::PackedScene::5196724429155905076::1715756016::1720707687::1::::<><>::
+stones.glb::PackedScene::8020003917960256355::1715756016::1720707688::1::::<><>::
+trap-spikes-large.glb::PackedScene::3558598351220273035::1715756016::1720707688::1::::<><>::
+trap-spikes.glb::PackedScene::7366212888095418745::1715756016::1720707688::1::::<><>::
+tree-pine-small.glb::PackedScene::8447499954301095967::1715756017::1720707688::1::::<><>::
+tree-pine-snow-small.glb::PackedScene::3773414975327813400::1715756017::1720707688::1::::<><>::
+tree-pine-snow.glb::PackedScene::5857283885440322821::1715756017::1720707689::1::::<><>::
+tree-pine.glb::PackedScene::4394940860595016079::1715756017::1720707689::1::::<><>::
+tree-snow.glb::PackedScene::9022423880044439668::1715756017::1720707689::1::::<><>::
+tree.glb::PackedScene::2643403175233237013::1715756016::1720707689::1::::<><>::
+::res://assets/GLB format/Maps/Textures/::1720707713
+colormap.png::CompressedTexture2D::6771839271248223425::1715756035::1720707713::1::::<><>::
+::res://assets/GLB format/round_bat/::1720637273
+round_bat_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
+round_bat_skin.tscn::PackedScene::1383690452834059112::1720637273::0::1::::<><>::uid://h2we7rb772hy::::res://models/round_bat/model/bat.glb<>res://models/round_bat/round_bat_skin.gd<>uid://c1irgai81674w::::res://models/round_bat/model/custom/custom_lib.res
+::res://assets/GLB format/round_bat/model/::1720637291
+bat.glb::PackedScene::548404728940689490::1720637273::1720637290::1::::<><>::
+bat_albedo.png::CompressedTexture2D::8323211637251668146::1720637273::1720637279::1::::<><>::
+bat_roughness.png::CompressedTexture2D::4243314292578545969::1720637273::1720637278::1::::<><>::
+::res://assets/GLB format/round_bat/model/custom/::1720637273
+custom_lib.res::AnimationLibrary::6615309241541787048::1720637273::0::1::::<><>::uid://da8rcao72ebvp::::res://models/round_bat/model/custom/hurt.res
+hurt.res::Animation::7228422300545551021::1720637273::0::1::::<><>::
+::res://assets/GLB format/shared/::1720637273
+::res://assets/GLB format/shared/shaders/::1720637273
+screen_shader.gdshader::Shader::-1::1720637273::0::1::::<><>::
+::res://assets/GLB format/shared/textures/::1720637278
+eye_mask.png::CompressedTexture2D::3908488200257949310::1720637273::1720637278::1::::<><>::
+::res://assets/GLB format/sophia/::1720637273
+sophia_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
+sophia_skin.tscn::PackedScene::1088403687259568021::1720637273::0::1::::<><>::uid://16iu10wxub40::::res://models/sophia/model/sophia.glb<>res://models/sophia/sophia_skin.gd<>uid://dye01l0ct4fby::::res://models/sophia/model/materials/eye_mat_override.tres
+::res://assets/GLB format/sophia/model/::1720637286
+sophia.glb::PackedScene::1889428502043242119::1720637273::1720637286::1::::<><>::
+sophia_diffuse.png::CompressedTexture2D::2194551603207448386::1720637273::1720637279::1::::<><>::
+sophia_eye_open_diffuse.png::CompressedTexture2D::3530007250205914920::1720637273::1720637278::1::::<><>::
+sophia_eye_open_normal.png::CompressedTexture2D::1057991244899050165::1720637273::1720637278::1::::<><>::
+sophia_mouth_smile_diffuse.png::CompressedTexture2D::268748017642751524::1720637273::1720637278::1::::<><>::
+sophia_mouth_smile_normal.png::CompressedTexture2D::6802912373536449604::1720637273::1720637278::1::::<><>::
+sophia_normal.png::CompressedTexture2D::848904653898235478::1720637273::1720637278::1::::<><>::
+sophia_roughness.png::CompressedTexture2D::7243573823618578073::1720637273::1720637278::1::::<><>::
+SSS.png::CompressedTexture2D::8807376051677854273::1720637273::1720637278::1::::<><>::
+::res://assets/GLB format/sophia/model/materials/::1720637273
+eye_mat_L.tres::StandardMaterial3D::141094784970057065::1720637273::0::1::::<><>::uid://bqj7x6pcb73iy::::res://models/sophia/model/sophia_eye_open_diffuse.png<>uid://pcq7xge7vncv::::res://models/sophia/model/sophia_eye_open_normal.png
+eye_mat_override.tres::StandardMaterial3D::8853616781363377254::1720637273::0::1::::<><>::uid://ctfbobgg7ts8d::::res://models/sophia/model/textures/eyes_diffuse_map.png<>uid://bjvo8w2ptm7fc::::res://models/sophia/model/textures/eyes_normal_map.png
+eye_mat_R.tres::StandardMaterial3D::5016230621342625884::1720637273::0::1::::<><>::uid://bqj7x6pcb73iy::::res://models/sophia/model/sophia_eye_open_diffuse.png<>uid://pcq7xge7vncv::::res://models/sophia/model/sophia_eye_open_normal.png
+mouth_mat.tres::StandardMaterial3D::300488373380661199::1720637273::0::1::::<><>::uid://d3gigd8y5hjg::::res://models/sophia/model/sophia_mouth_smile_diffuse.png<>uid://c36m8cv33f0yi::::res://models/sophia/model/sophia_mouth_smile_normal.png
+sophia_material.tres::StandardMaterial3D::3918783906598939747::1720637273::0::1::::<><>::uid://6jb7dt4d54ck::::res://models/sophia/model/sophia_diffuse.png<>uid://dbg3uqtvqxigv::::res://models/sophia/model/sophia_roughness.png<>uid://mdhln8lltmyo::::res://models/sophia/model/sophia_normal.png<>uid://dxqmgxq6o21yr::::res://models/sophia/model/SSS.png
+::res://assets/GLB format/sophia/model/textures/::1720637278
+eyes_diffuse_map.png::CompressedTexture2D::6116837065494871941::1720637273::1720637278::1::::<><>::
+eyes_normal_map.png::CompressedTexture2D::3062382376299092828::1720637273::1720637278::1::::<><>::
+::res://assets/HDRI/::1720624296
+::res://prefabs/::1720715820
+gobot.tscn::PackedScene::3769029107970260940::1720715820::0::1::::<><>::uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
+::res://scripts/::1721041781
+CenaScript.gd::GDScript::-1::1720795149::0::1::::<>Node2D<>::
+PlayerClass.gd::GDScript::-1::1721041781::0::1::::PlayerData<>RefCounted<>::
+PlayerProgress.gd::GDScript::-1::1721041781::0::1::::PlayerProgress<>Resource<>::
+vag.glb::PackedScene::4989403076549225301::1720810584::1720810587::1::::<><>::
+vag_bola.png::CompressedTexture2D::9210145690807504112::1720810586::1720810589::1::::<><>::
+vag_log.png::CompressedTexture2D::4836743307912943915::1720810586::1720810589::1::::<><>::
+view.gd::GDScript::-1::1720717644::0::1::::<>Node3D<>::
+::res://scripts/database/::1721041781
+::res://scripts/database/players/::1721041781
+vagabundo.tres::Resource/PlayerProgress::-1::1721041781::0::1::::<><>::res://scripts/PlayerProgress.gd

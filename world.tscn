@@ -40,9 +40,10 @@ shadow_enabled = true
 shadow_blur = 9.072
 directional_shadow_max_distance = 60.0
 
-[node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+[node name="CharacterBody3D" type="CharacterBody3D" parent="." node_paths=PackedStringArray("view")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.00071, 1.3236, 0)
 script = ExtResource("2_jmy1q")
+view = NodePath("../CameraPivo")
 
 [node name="gobot" parent="CharacterBody3D" instance=ExtResource("3_gqua4")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.48069, 0)
