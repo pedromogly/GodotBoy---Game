@@ -1,8 +1,1 @@
-res://world.tscn
 res://w-en.tres
-res://prefabs/barrel_2.tscn
-res://testeMovimento.gd
-res://player.gd
-res://prefabs/gobot.tscn
-res://scripts/view.gd
-res://testeLabel.gd

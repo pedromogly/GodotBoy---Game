@@ -1,10 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1720708083
+::res://::1720810554
 icon.svg::CompressedTexture2D::1220127856910624875::1720621964::1720621975::1::::<><>::
 player.gd::GDScript::-1::1720705239::0::1::::<>CharacterBody3D<>::
+testeLabel.gd::GDScript::-1::1720719663::0::1::::<>Label3D<>::
 testeMovimento.gd::GDScript::-1::1720703051::0::1::::<>StaticBody3D<>::
-w-en.tres::Environment::5606978517538894156::1720707987::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
-world.tscn::PackedScene::4212348849559626980::1720708083::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
+w-en.tres::Environment::5606978517538894156::1720795410::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
+world.tscn::PackedScene::4212348849559626980::1720795410::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb<>res://scripts/view.gd<>res://testeLabel.gd
 ::res://assets/::1720707625
 2151071755.jpg::CompressedTexture2D::3234449160139597115::1720624545::1720624551::1::::<><>::
 clouds_anime_6k.jpg::CompressedTexture2D::7825345187358457397::1720625694::1720625772::1::::<><>::
@@ -260,5 +261,11 @@ sophia_material.tres::StandardMaterial3D::3918783906598939747::1720637273::0::1:
 eyes_diffuse_map.png::CompressedTexture2D::6116837065494871941::1720637273::1720637278::1::::<><>::
 eyes_normal_map.png::CompressedTexture2D::3062382376299092828::1720637273::1720637278::1::::<><>::
 ::res://assets/HDRI/::1720624296
-::res://prefabs/::1720708083
-gobot.tscn::PackedScene::3769029107970260940::1720708083::0::1::::<><>::uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
+::res://prefabs/::1720715820
+gobot.tscn::PackedScene::3769029107970260940::1720715820::0::1::::<><>::uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
+::res://scripts/::1720810587
+CenaScript.gd::GDScript::-1::1720795149::0::1::::<>Node2D<>::
+vag_bola.png::CompressedTexture2D::9210145690807504112::1720810586::1720810589::1::::<><>::
+vag_log.png::CompressedTexture2D::4836743307912943915::1720810586::1720810589::1::::<><>::
+vag.glb::PackedScene::4989403076549225301::1720810584::1720810587::1::::<><>::uid://ca57pqx4etvt0::::res://scripts/vag_log.png<>uid://d4hp0vrvbfqts::::res://scripts/vag_bola.png
+view.gd::GDScript::-1::1720717644::0::1::::<>Node3D<>::
