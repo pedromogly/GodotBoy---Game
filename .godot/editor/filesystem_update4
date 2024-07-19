@@ -1,5 +1,8 @@
 res://world.tscn
 res://scripts/PlayerProgress.gd
-res://w-en.tres
 res://scripts/view.gd
-res://player.gd
+res://w-en.tres
+res://prefabs/mesh_library_1.tres
+res://scripts/beetle_bot_fused.gd
+res://prefabs/coin.tscn
+res://prefabs/mesh_library.tscn

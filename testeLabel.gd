@@ -9,8 +9,6 @@ var speed = 50
 
 func _ready():
 	var player = PlayerProgress.new('vagabundo')
-	print(player)
-
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):

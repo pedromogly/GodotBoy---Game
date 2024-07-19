@@ -1,16 +1,17 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1721042059
+::res://::1721398486
 icon.svg::CompressedTexture2D::1220127856910624875::1720621964::1720621975::1::::<><>::
-player.gd::GDScript::-1::1720705239::0::1::::<>CharacterBody3D<>::
-testeLabel.gd::GDScript::-1::1721041781::0::1::::<>Label3D<>::
+player.gd::GDScript::-1::1721230667::0::1::::<>CharacterBody3D<>::
+testeLabel.gd::GDScript::-1::1721219042::0::1::::<>Label3D<>::
 testeMovimento.gd::GDScript::-1::1720703051::0::1::::<>StaticBody3D<>::
-w-en.tres::Environment::5606978517538894156::1720810877::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
-world.tscn::PackedScene::4212348849559626980::1720795410::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb<>res://scripts/view.gd<>res://testeLabel.gd
+w-en.tres::Environment::5606978517538894156::1721386625::0::1::::<><>::uid://djqwj6ql87yv2::::res://assets/clouds_anime_6k.jpg
+world.tscn::PackedScene::4212348849559626980::1721386625::0::1::::<><>::uid://cl5cd8ilmmgqu::::res://w-en.tres<>res://player.gd<>uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb<>res://scripts/view.gd<>res://testeLabel.gd<>uid://ldhjmuc4khek::::res://prefabs/coin.tscn<>uid://7hme1nmtk87s::::res://prefabs/mesh_library_1.tres
 ::res://assets/::1720707625
 2151071755.jpg::CompressedTexture2D::3234449160139597115::1720624545::1720624551::1::::<><>::
 clouds_anime_6k.jpg::CompressedTexture2D::7825345187358457397::1720625694::1720625772::1::::<><>::
 syferfontein_18d_clear_puresky_2k.hdr::CompressedTexture2D::6673189293070300854::1720625004::1720625059::1::::<><>::
-::res://assets/GLB format/::1720707662
+::res://assets/GLB format/::1721232029
+godot_coin.glb::PackedScene::2242066878366250095::1721232027::1721232029::1::::<><>::
 ::res://assets/GLB format/beetle_bot/::1720637274
 beetlebot_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
 beetlebot_skin.tscn::PackedScene::3458808760929674789::1720637273::0::1::::<><>::res://models/beetle_bot/beetlebot_skin.gd<>uid://dbqoj8oam1dsg::::res://models/beetle_bot/model/beetle_bot_fused.glb<>uid://dg5h8p8fu3mhh::::res://models/beetle_bot/materials/beetlebot_eyes_mat.tres<>uid://h2e57pyy6lu4::::res://models/beetle_bot/materials/beetlebot_lights_mat.tres<>uid://812ebxlqmeit::::res://models/beetle_bot/model/custom/custom_lib.res
@@ -78,7 +79,7 @@ run_step.res::Animation::6847178706671563677::1720637273::0::1::::<><>::
 closed_eyes.png::CompressedTexture2D::5130339085040898258::1720637273::1720637279::1::::<><>::
 hurt_eyes.png::CompressedTexture2D::1704977264065322721::1720637273::1720637279::1::::<><>::
 open_eye.png::CompressedTexture2D::8348276059302445828::1720637273::1720637278::1::::<><>::
-::res://assets/GLB format/Maps/::1720707855
+::res://assets/GLB format/Maps/::1721299880
 arrow.glb::PackedScene::4999042697651640274::1715756009::1720707699::1::::<><>::
 arrows.glb::PackedScene::7477847874788264122::1715756010::1720707699::1::::<><>::
 barrel.glb::PackedScene::5939067725743603335::1715756010::1720707855::1::::<><>::
@@ -121,7 +122,7 @@ block-grass-overhang-low-narrow.glb::PackedScene::1028506495293062713::171575601
 block-grass-overhang-low.glb::PackedScene::2561453898618713159::1715756012::1720707709::1::::<><>::
 block-grass-overhang-narrow.glb::PackedScene::8104992683708155379::1715756012::1720707709::1::::<><>::
 block-grass.glb::PackedScene::2953170784125722329::1715756010::1720707709::1::::<><>::
-block-moving-blue.glb::PackedScene::2023675668607964912::1715756012::1720707709::1::::<><>::
+block-moving-blue.glb::PackedScene::2023675668607964912::1715756012::1721299880::1::::<><>::
 block-moving-large.glb::PackedScene::902474873032837113::1715756012::1720707709::1::::<><>::
 block-moving.glb::PackedScene::6987974004045270173::1715756012::1720707709::1::::<><>::
 block-snow-corner-low.glb::PackedScene::5834794629692380951::1715756012::1720707710::1::::<><>::
@@ -223,9 +224,7 @@ tree-snow.glb::PackedScene::9022423880044439668::1715756017::1720707689::1::::<>
 tree.glb::PackedScene::2643403175233237013::1715756016::1720707689::1::::<><>::
 ::res://assets/GLB format/Maps/Textures/::1720707713
 colormap.png::CompressedTexture2D::6771839271248223425::1715756035::1720707713::1::::<><>::
-::res://assets/GLB format/round_bat/::1720637273
-round_bat_skin.gd::GDScript::-1::1720637273::0::1::::<>Node3D<>::
-round_bat_skin.tscn::PackedScene::1383690452834059112::1720637273::0::1::::<><>::uid://h2we7rb772hy::::res://models/round_bat/model/bat.glb<>res://models/round_bat/round_bat_skin.gd<>uid://c1irgai81674w::::res://models/round_bat/model/custom/custom_lib.res
+::res://assets/GLB format/round_bat/::1721231695
 ::res://assets/GLB format/round_bat/model/::1720637291
 bat.glb::PackedScene::548404728940689490::1720637273::1720637290::1::::<><>::
 bat_albedo.png::CompressedTexture2D::8323211637251668146::1720637273::1720637279::1::::<><>::
@@ -261,16 +260,17 @@ sophia_material.tres::StandardMaterial3D::3918783906598939747::1720637273::0::1:
 eyes_diffuse_map.png::CompressedTexture2D::6116837065494871941::1720637273::1720637278::1::::<><>::
 eyes_normal_map.png::CompressedTexture2D::3062382376299092828::1720637273::1720637278::1::::<><>::
 ::res://assets/HDRI/::1720624296
-::res://prefabs/::1720715820
+::res://prefabs/::1721386626
+coin.gd::GDScript::-1::1721234055::0::1::::<>Area3D<>::
+coin.tscn::PackedScene::778712165681360782::1721386626::0::1::::<><>::res://prefabs/coin.gd
 gobot.tscn::PackedScene::3769029107970260940::1720715820::0::1::::<><>::uid://kod0awm1ha4o::::res://assets/GLB format/gobot/model/gobot.glb
-::res://scripts/::1721041781
+mesh_library.tscn::PackedScene::7704684300262826449::1721386626::0::1::::<><>::uid://c3qlg6fgu2r4l::::res://assets/GLB format/Maps/Textures/colormap.png
+mesh_library_1.tres::MeshLibrary::2261230774044880790::1721386625::0::1::::<><>::uid://c3qlg6fgu2r4l::::res://assets/GLB format/Maps/Textures/colormap.png
+::res://scripts/::1721386625
 CenaScript.gd::GDScript::-1::1720795149::0::1::::<>Node2D<>::
 PlayerClass.gd::GDScript::-1::1721041781::0::1::::PlayerData<>RefCounted<>::
-PlayerProgress.gd::GDScript::-1::1721041781::0::1::::PlayerProgress<>Resource<>::
-vag.glb::PackedScene::4989403076549225301::1720810584::1720810587::1::::<><>::
-vag_bola.png::CompressedTexture2D::9210145690807504112::1720810586::1720810589::1::::<><>::
-vag_log.png::CompressedTexture2D::4836743307912943915::1720810586::1720810589::1::::<><>::
-view.gd::GDScript::-1::1720717644::0::1::::<>Node3D<>::
+PlayerProgress.gd::GDScript::-1::1721386625::0::1::::PlayerProgress<>Resource<>::
+view.gd::GDScript::-1::1721386625::0::1::::<>Node3D<>::
 ::res://scripts/database/::1721041781
 ::res://scripts/database/players/::1721041781
-vagabundo.tres::Resource/PlayerProgress::-1::1721041781::0::1::::<><>::res://scripts/PlayerProgress.gd
+vagabundo.tres::Resource/PlayerProgress::-1::1721386630::0::1::::<><>::res://scripts/PlayerProgress.gd

@@ -12,7 +12,5 @@ sky_material = SubResource("PanoramaSkyMaterial_vmsio")
 background_mode = 2
 background_color = Color(0.711112, 0.711112, 0.711112, 1)
 sky = SubResource("Sky_i872y")
-ssil_enabled = true
-sdfgi_enabled = true
 glow_intensity = 1.0
 fog_enabled = true
